@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Languages:
+
+https://img.shields.io/badge/JavaScript-yellow https://img.shields.io/badge/TypeScript-green https://img.shields.io/badge/Python-purple 
 <!--
 **bolfati/bolfati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
