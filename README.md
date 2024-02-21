@@ -10,6 +10,6 @@
 
 ### About Me:
 
-Hello there!  I'm Bijan Olfati, a Full Stack Software Developer with a background in Mechanical Engineering based in Texas (born and raised)!
+Hello there!  I'm Bijan Olfati, a Full Stack Software Developer with a background in Mechanical Engineering based in Texas (born and raised)!   
 I'm multi-lingual (English, Spanish, Farsi, Arabic) and excited to code with you. =]
 
